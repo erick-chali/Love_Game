@@ -18,7 +18,7 @@ public class CrearMatriz {
                 matriz[x][y] = num;
             }
         }
-		imprimirMatriz();
+//		imprimirMatriz();
 	}
 
 	private boolean verificarNum(int num2) {
